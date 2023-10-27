@@ -1,0 +1,70 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+    color: red;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px;
+    background-color: aqua;
+}
+
+#about {
+    background-color:aqua;
+
+}
+
+#portfolio {
+    background-color: aqua;
+}
+
+.project {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #333;
+    color: red;
+}
+
+#contact {
+    background-color:aqua;
+}
+
+footer {
+    background-color: #333;
+    color: red;
+    text-align: center;
+    padding: 10px 0;
+}
+
+p{
+    color: red;
+    font-style: italic;
+}
